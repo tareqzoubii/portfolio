@@ -2,6 +2,7 @@
 @import '/src/scss/themes/theme-light.scss';
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;300&display=swap');
 
+
 html {
 	font-size: 62.5%;
 	-webkit-font-smoothing: antialiased;
@@ -38,7 +39,8 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #382feb;
+	background-image:url("./cover.jpg");
+	// background-color: #382feb;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
