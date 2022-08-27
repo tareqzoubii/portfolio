@@ -14,14 +14,14 @@
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "profile.jpg"
     },
     "skills": {
       "icons": [
         {
           "name": "HTML 5",
           "class": "devicon-html5-plain",
-          "level": "85"
+          "level": "75"
         },
         {
           "name": "CSS 3",
@@ -29,24 +29,14 @@
           "level": "70"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "50"
-        },
-        {
           "name": "TypeScript",
           "class": "devicon-typescript-plain",
-          "level": "50"
+          "level": "60"
         },
         {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
-          "level": "75"
-        },
-        {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "50"
+          "level": "70"
         },
         {
           "name": "Bootstrap",
@@ -56,11 +46,6 @@
         {
           "name": "C#",
           "class": "devicon-csharp-plain",
-          "level": "50"
-        },
-        {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
           "level": "50"
         }
       ]
